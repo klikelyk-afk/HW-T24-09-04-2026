@@ -1,0 +1,5 @@
+﻿  HW-T24-09-04-2026.cpp
+C:\Users\klike\source\repos\HW-T24-09-04-2026\HW-T24-09-04-2026\HW-T24-09-04-2026.cpp(135,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\klike\source\repos\HW-T24-09-04-2026\HW-T24-09-04-2026\HW-T24-09-04-2026.cpp(150,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\klike\source\repos\HW-T24-09-04-2026\HW-T24-09-04-2026\HW-T24-09-04-2026.cpp(158,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  HW-T24-09-04-2026.vcxproj -> C:\Users\klike\source\repos\HW-T24-09-04-2026\x64\Debug\HW-T24-09-04-2026.exe
